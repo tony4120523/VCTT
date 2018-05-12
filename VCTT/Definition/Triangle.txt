@@ -1,0 +1,34 @@
+Test id : 1
+Class name : Triangle
+Method name : shape
+Test case input : 6,6,6
+Expected output type : String
+Expected result : Equilateral
+
+Test id : 2
+Class name : Triangle
+Method name : shape
+Test case input : 6,8,10
+Expected output type : String
+Expected result : Right
+
+Test id : 3
+Class name : Triangle
+Method name : shape
+Test case input : 6,6,13
+Expected output type : String
+Expected result : Non-triangle
+
+Test id : 4
+Class name : Triangle
+Method name : shape
+Test case input : 6,6,7
+Expected output type : String
+Expected result : Isosceles
+
+Test id :  5
+Class name :  Triangle
+Method name :  shape
+Test case input :  6, 7, 12
+Expected output type : String
+Expected result :  Obtuse

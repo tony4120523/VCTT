@@ -1,0 +1,9 @@
+Class Name | Method Name | Programmer | Email
+----------------------------------------------
+Calculator | getGCD | aaa | tony4120523@gmail.com
+-----------------------------------------------
+Calculator | getLCM | bbb | a0261096@g2.usc.edu.tw
+-----------------------------------------------
+Triangle | shape | ccc | tony41205@yahoo.com.tw
+-----------------------------------------------
+Triangle | judge | bbb | a0261096@g2.usc.edu.tw

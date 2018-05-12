@@ -1,0 +1,27 @@
+Test id : 1
+Class name : Calculator
+Method name : getGCD
+Test input : 12,20
+Expected output type : int
+Expected result : 4
+
+Test id : 2
+Class name : Calculator
+Method name : getLCM
+Test input : 12,20
+Expected output type : int
+Expected result : 60
+
+Test id : 3
+Class name : Calculator
+Method name : getLCM
+Test input : 3, 16
+Expected output type : int
+Expected result : 48
+
+Test id : 4
+Class name : Calculator
+Method name : getLCM
+Test input : 5, 13
+Expected output type : int
+Expected result : 66
