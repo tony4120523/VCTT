@@ -1,4 +1,4 @@
-# vctt
+# VCTT
 version control based testing tool
 ## usage
 * create the ClassName.txt file in Definition directory
